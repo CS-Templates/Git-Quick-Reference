@@ -41,6 +41,8 @@ git push
 ```
 ## Collaborating
 
+Collaboration on GitHub is done through forks.
+
 <details>
   <summary>
     [Configuring a remote for a fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
