@@ -39,3 +39,16 @@ git add FILE_OR_DIRECTORY
 git commit -m "Working on bug #1."
 git push
 ```
+## Collaborating
+
+<details>
+  <summary>
+    [Configuring a remote for a fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
+  </summary>
+</details>
+
+<details>
+  <summary>
+    [Syncing a fork](https://help.github.com/articles/syncing-a-fork/)
+  </summary>
+</details>
